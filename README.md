@@ -10,7 +10,7 @@ Año Lectivo: 2026
 
 | Nombre | Rol |
 |--------|-----|
-| [Tu Nombre] | P1 – Líder / P2 – Desarrollador / P3 – Revisor |
+| Gonzalo Agustin Erizaga Boggia | P1 – Líder / P2 – Desarrollador / P3 – Revisor |
 
 ---
 
